@@ -4,11 +4,12 @@ import 'package:sixthy/widgets/Category_item.dart';
 
 class CategoriesScreen extends StatelessWidget {
 
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('دليل سياحي'),
+        title: Text('Touristenführer'), 
       ),
       body: GridView(
         gridDelegate: SliverGridDelegateWithMaxCrossAxisExtent(

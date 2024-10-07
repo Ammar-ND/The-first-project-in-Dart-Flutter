@@ -195,7 +195,7 @@ const Trips_data = const [
     tripType: TripType.Recovery,
     season: Season.Summer,
     imageUrl:
-        'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8YmVhY2h8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+        'https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8bGFrZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60',
     duration: 15,
     activities: [
       'Schwimmen',
@@ -223,7 +223,7 @@ const Trips_data = const [
     tripType: TripType.Exploration,
     season: Season.Autumn,
     imageUrl:
-        'https://images.unsplash.com/photo-1502111872920-042f7e9a9f92?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8ZGVzZXJ0fGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+        'https://images.unsplash.com/photo-1493558103817-58b2924bce98?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAxfHxiZWFjaHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60',
     duration: 25,
     activities: [
       'Kamelreiten',
@@ -251,7 +251,7 @@ const Trips_data = const [
     tripType: TripType.Exploration,
     season: Season.Spring,
     imageUrl:
-        'https://images.unsplash.com/photo-1533676802871-c4f7308e6c40?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8aGlzdG9yaWMlMjBjaXR5fGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+        'https://images.unsplash.com/photo-1519046904884-53103b34b206?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8YmVhY2h8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
     duration: 5,
     activities: [
       'Besichtigung historischer Gebäude',
@@ -279,7 +279,7 @@ const Trips_data = const [
     tripType: TripType.Activities,
     season: Season.Winter,
     imageUrl:
-        'https://images.unsplash.com/photo-1516569422535-dfcd28f30cfb?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8c2tpfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+        'https://images.unsplash.com/photo-1519602035691-16ac091344ef?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjE1fHxiZWFjaHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60',
     duration: 10,
     activities: [
       'Skifahren',
